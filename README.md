@@ -2,14 +2,9 @@
 
 **This is my first project**
 
-###Learning about and how to use: 
+##This is my second header
 
-*Zero day 
-*Virtual Machine
-*man uname
-*Git
-*READMEs
-*commit messages 
+ 
 
 
 
